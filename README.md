@@ -1,6 +1,6 @@
 <h2><b> Hi, I'm Sahil Jawale! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h2>
 
-<img align='right' src="https://octodex.github.com/images/NUX_Octodex.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/108802783/177764335-997de95b-ea28-43b5-ab7a-59a7e1d96558.gif">
 <!--
 **sahiljawale54/sahiljawale54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
