@@ -3,6 +3,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/108802783/177764335-997de95b-ea28-43b5-ab7a-59a7e1d96558.gif" width="500" height="320">
 
 * 🔭 I’m currently working on Web Development <br>
+* 💬 Ask me about- C++, Data Structures and Algorithms(DSA)
 * 🌱 Looking for a team or an organization where I can learn and develop my skills <br>
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive   that can solve problems our world is dealing with<br>
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sahil-jawale/)
