@@ -29,6 +29,13 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
+<h3 align = "center"> GitHub Statistics </h3>
+<br> 
+
+|<img src="https://github-readme-stats.vercel.app/api?username=Sahiljawale54&show_icons=true"></img>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sahiljawale54"/>|
+|---|---|
+
+
 <!--
 **sahiljawale54/sahiljawale54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
