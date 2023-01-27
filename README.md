@@ -7,7 +7,7 @@
 * 💬 Ask me about- C++, Data Structures and Algorithms(DSA) and Competitive Programming 
 * 🌱 Looking for a team or an organization where I can learn and develop my skills <br>
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive   that can solve problems our world is dealing with<br>
-* 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sahiljawale/)
+* 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sahiljawale54/)
 * ⚡ Fun fact: Engineering student but still happy😄(Trying to be)
 </p>
 
