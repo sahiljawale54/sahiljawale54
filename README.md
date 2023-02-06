@@ -1,7 +1,8 @@
 <h2 align="center"><b> Hi, I'm Sahil Jawale! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h2>
 
-<img align='right' src="https://user-images.githubusercontent.com/108802783/210731280-6d55cf71-7f5e-4c46-b7dc-8206a1ffa63d.svg"  width="460" height="320">
+<img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif"  width="460" height="320">
 <p align="justify">
+
 
 * 🔭 I’m currently working on Web Development <br>
 * 💬 Ask me about- C++, Data Structures and Algorithms(DSA) and Competitive Programming 
