@@ -1,7 +1,8 @@
 <h2 align="center"><b> Hi, I'm Sahil Jawale! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h2>
 
 <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif"  width="460" height="320">
-<p align="justify">
+
+<div style="text-align=justify">
 
 
 * 🔭 I’m currently working on Web Development <br>
@@ -10,7 +11,7 @@
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive   that can solve problems our world is dealing with<br>
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sahiljawale54/)
 * ⚡ Fun fact: Engineering student but still happy😄(Trying to be)
-</p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiljawale&label=Profile%20views&color=0e75b6&style=flat" alt="sahiljawale54" /> </p>
 <!-- <a href="https://www.buymeacoffee.com/sahiljawale"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
