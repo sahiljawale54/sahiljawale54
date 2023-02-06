@@ -2,9 +2,7 @@
 
 <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif"  width="460" height="320">
 
-<div style="text-align=justify">
-
-
+<div align="justify">
 * 🔭 I’m currently working on Web Development <br>
 * 💬 Ask me about- C++, Data Structures and Algorithms(DSA) and Competitive Programming 
 * 🌱 Looking for a team or an organization where I can learn and develop my skills <br>
