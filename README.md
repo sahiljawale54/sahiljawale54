@@ -1,4 +1,6 @@
-<h2 align="center"><b> Hi, I'm Sahil Jawale! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h2>
+<h3 align="center"> Hi, I'm Sahil Jawale! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br>
+<span> A passionate Web developer and Competitive Programmer </span> </h3>
+
 
 <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="45%">
 
