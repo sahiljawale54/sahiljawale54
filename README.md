@@ -2,7 +2,7 @@
 <span> A passionate Web developer and Competitive Programmer </span> </h3>
 
 
-<img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="45%">
+<img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="45%" height = "100%">
 
 <p>
   
@@ -17,8 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiljawale&label=Profile%20views&color=0e75b6&style=flat" alt="sahiljawale54" /> </p>
 <!-- <a href="https://www.buymeacoffee.com/sahiljawale"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
-<br>
-
+<!-- <br> -->
 <h2 align="Center">Languages and Tools:</h2> 
 
 
