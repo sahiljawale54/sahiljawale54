@@ -53,7 +53,7 @@
 
 <h2 align="center"> GitHub Statistics </h2>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=sahiljawale54&show_icons=true"></img>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sahiljawale54"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=sahiljawale54&show_icons=true"></img>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=sahiljawale54"/>|
 |---|---|
 
 </details>
