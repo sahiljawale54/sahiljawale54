@@ -47,6 +47,8 @@
   <img src = "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" >
   <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" >
   <img src = "https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" >
+  <img src = "https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" >
+  <img src = "https://img.shields.io/badge/Colab-%237F5AB6.svg?style=for-the-badge&logo=google&logoColor=white" >
 <!--   <img src = "" > -->
   
 <p>
