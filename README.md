@@ -6,12 +6,12 @@
 <p>
   
   
-🔭 I’m currently working on Web Development (MERN) <br>
-💬 Ask me about- Front-end Development, Data Structures and Algorithms (DSA) and Competitive Programming 
-🌱 Looking for a team or an organization where I can learn and develop my skills <br>
-✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with<br>
-📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sahiljawale54/)
-⚡ Fun fact: Engineering student but still happy😄(Trying to be)
+* 🔭 I’m currently working on Web Development (MERN) <br>
+* 💬 Ask me about- Front-end Development, Data Structures and Algorithms (DSA) and Competitive Programming 
+* 🌱 Looking for a team or an organization where I can learn and develop my skills <br>
+* ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with<br>
+* 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sahiljawale54/)
+* ⚡ Fun fact: Engineering student but still happy😄(Trying to be)
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiljawale&label=Profile%20views&color=0e75b6&style=flat" alt="sahiljawale54" /> </p>
