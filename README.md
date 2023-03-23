@@ -6,7 +6,7 @@
 <p>
   
   
-* 🔭 I’m currently working on Web Development(MERN) <br>
+* 🔭 I’m currently working on Web Development (MERN) <br>
 * 💬 Ask me about- Front-end Development, Data Structures and Algorithms (DSA) and Competitive Programming 
 * 🌱 Looking for a team or an organization where I can learn and develop my skills <br>
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with<br>
